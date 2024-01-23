@@ -1657,7 +1657,7 @@ h1 {
 }
 
 /* Media Queries para tamaños de pantalla diferentes */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 768px) {
   /* Estilos para pantallas pequeñas */
   h1 {
       font-size: 1.5em;
